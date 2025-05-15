@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Destroy_card",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.914286,
+  "name":"Destroy_card",
+  "parent":{
+    "name":"Sound",
+    "path":"folders/Sprites/Sound.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Destroy_card.mp3",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,1 @@
+global.accept_minigame_comsci = true   

@@ -1,0 +1,1 @@
+room_goto(SCI_University_Finish_Minigame)

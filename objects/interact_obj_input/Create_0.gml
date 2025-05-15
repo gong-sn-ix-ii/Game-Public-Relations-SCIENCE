@@ -1,0 +1,1 @@
+is_get_score = true

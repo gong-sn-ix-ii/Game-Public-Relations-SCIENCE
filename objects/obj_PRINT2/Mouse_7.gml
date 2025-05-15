@@ -1,0 +1,1 @@
+global.print2 = false

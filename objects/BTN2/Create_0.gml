@@ -1,0 +1,1 @@
+global.selected2 = false

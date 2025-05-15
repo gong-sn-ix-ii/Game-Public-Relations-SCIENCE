@@ -1,0 +1,1 @@
+global.number2 = false

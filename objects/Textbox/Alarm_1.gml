@@ -1,0 +1,1 @@
+alarm[0]=delta_time/2;
